@@ -1,0 +1,122 @@
+2026-11-20 17:25:24,852 - INFO - Website Monitor Started
+2026-11-20 17:25:26,099 - INFO - Google is UP
+2026-11-20 17:25:27,145 - INFO - Wikipedia is UP
+2026-11-20 17:25:27,967 - INFO - Python is UP
+2026-11-20 17:25:39,241 - INFO - Google is UP
+2026-11-20 17:25:40,672 - INFO - Wikipedia is UP
+2026-11-20 17:25:41,418 - INFO - Python is UP
+2026-11-20 17:25:53,073 - INFO - Google is UP
+2026-11-20 17:25:54,947 - INFO - Wikipedia is UP
+2026-11-20 17:25:56,714 - INFO - Python is UP
+2026-11-20 17:26:07,802 - INFO - Google is UP
+2026-11-20 17:26:09,247 - INFO - Wikipedia is UP
+2026-11-20 17:26:10,986 - INFO - Python is UP
+2026-11-20 17:26:22,513 - INFO - Google is UP
+2026-11-20 17:26:24,392 - INFO - Wikipedia is UP
+2026-11-20 17:26:26,135 - INFO - Python is UP
+2026-11-20 17:28:26,201 - INFO - Website Monitor Started
+2026-11-20 17:28:27,693 - INFO - Google is UP
+2026-11-20 17:28:29,222 - WARNING - Wikipedia is DOWN. Consecutive failures: 1
+2026-11-20 17:28:29,416 - WARNING - Python is DOWN. Consecutive failures: 1
+2026-11-20 17:28:40,557 - INFO - Google is UP
+2026-11-20 17:28:41,399 - WARNING - Wikipedia is DOWN. Consecutive failures: 2
+2026-11-20 17:28:41,399 - ERROR - Wikipedia failed two consecutive checks
+2026-11-20 17:28:42,217 - INFO - Webhook sent successfully: website_down - Wikipedia
+2026-11-20 17:28:42,421 - WARNING - Python is DOWN. Consecutive failures: 2
+2026-11-20 17:28:42,421 - ERROR - Python failed two consecutive checks
+2026-11-20 17:28:43,250 - INFO - Webhook sent successfully: website_down - Python
+2026-11-20 17:28:54,454 - INFO - Google is UP
+2026-11-20 17:28:55,325 - WARNING - Wikipedia is DOWN. Consecutive failures: 3
+2026-11-20 17:28:55,345 - WARNING - Python is DOWN. Consecutive failures: 3
+2026-11-20 17:29:07,045 - INFO - Google is UP
+2026-11-20 17:29:08,536 - WARNING - Wikipedia is DOWN. Consecutive failures: 4
+2026-11-20 17:29:08,557 - WARNING - Python is DOWN. Consecutive failures: 4
+2026-11-20 17:29:20,370 - INFO - Google is UP
+2026-11-20 17:29:21,540 - WARNING - Wikipedia is DOWN. Consecutive failures: 5
+2026-11-20 17:29:21,557 - WARNING - Python is DOWN. Consecutive failures: 5
+2026-11-20 17:29:33,199 - INFO - Google is UP
+2026-11-20 17:29:34,293 - WARNING - Wikipedia is DOWN. Consecutive failures: 6
+2026-11-20 17:29:34,307 - WARNING - Python is DOWN. Consecutive failures: 6
+2026-11-20 17:29:45,814 - INFO - Google is UP
+2026-11-20 17:29:46,675 - WARNING - Wikipedia is DOWN. Consecutive failures: 7
+2026-11-20 17:29:46,686 - WARNING - Python is DOWN. Consecutive failures: 7
+2026-11-20 17:30:16,877 - INFO - Website Monitor Started
+2026-11-20 17:30:18,115 - INFO - Google is UP
+2026-11-20 17:30:18,986 - WARNING - Wikipedia is DOWN. Consecutive failures: 1
+2026-11-20 17:30:18,997 - WARNING - Python is DOWN. Consecutive failures: 1
+2026-11-20 17:30:30,806 - INFO - Google is UP
+2026-11-20 17:30:32,401 - WARNING - Wikipedia is DOWN. Consecutive failures: 2
+2026-11-20 17:30:32,401 - ERROR - Wikipedia failed two consecutive checks
+2026-11-20 17:30:33,220 - INFO - Webhook sent successfully: website_down - Wikipedia
+2026-11-20 17:30:33,235 - WARNING - Python is DOWN. Consecutive failures: 2
+2026-11-20 17:30:33,235 - ERROR - Python failed two consecutive checks
+2026-11-20 17:30:33,966 - INFO - Webhook sent successfully: website_down - Python
+2026-11-20 17:30:45,101 - INFO - Google is UP
+2026-11-20 17:30:45,922 - WARNING - Wikipedia is DOWN. Consecutive failures: 3
+2026-11-20 17:30:45,940 - WARNING - Python is DOWN. Consecutive failures: 3
+2026-11-20 17:30:57,189 - INFO - Google is UP
+2026-11-20 17:30:58,003 - WARNING - Wikipedia is DOWN. Consecutive failures: 4
+2026-11-20 17:30:58,017 - WARNING - Python is DOWN. Consecutive failures: 4
+2026-11-20 17:31:09,269 - INFO - Google is UP
+2026-11-20 17:31:10,392 - WARNING - Wikipedia is DOWN. Consecutive failures: 5
+2026-11-20 17:31:10,404 - WARNING - Python is DOWN. Consecutive failures: 5
+2026-11-20 17:36:06,416 - INFO - Website Monitor Started
+2026-11-20 17:36:07,789 - INFO - Google is UP
+2026-11-20 17:36:08,820 - INFO - Youtube is UP
+2026-11-20 17:36:09,565 - INFO - Python is UP
+2026-11-20 17:36:20,635 - INFO - Google is UP
+2026-11-20 17:36:21,490 - INFO - Youtube is UP
+2026-11-20 17:36:22,692 - INFO - Python is UP
+2026-11-20 17:36:34,295 - INFO - Google is UP
+2026-11-20 17:36:35,649 - INFO - Youtube is UP
+2026-11-20 17:36:36,550 - INFO - Python is UP
+2026-11-20 17:36:39,024 - INFO - Website Monitor Started
+2026-11-20 17:36:40,230 - INFO - Google is UP
+2026-11-20 17:36:41,296 - INFO - Youtube is UP
+2026-11-20 17:36:42,183 - WARNING - Python is DOWN. Consecutive failures: 1
+2026-11-20 17:36:53,442 - INFO - Google is UP
+2026-11-20 17:36:54,576 - INFO - Youtube is UP
+2026-11-20 17:37:00,137 - WARNING - Python is DOWN. Consecutive failures: 2
+2026-11-20 17:37:00,137 - ERROR - Python failed two consecutive checks
+2026-11-20 17:37:00,866 - INFO - Webhook sent successfully: website_down - Python
+2026-11-20 17:37:11,968 - INFO - Google is UP
+2026-11-20 17:37:12,919 - INFO - Youtube is UP
+2026-11-20 17:37:13,837 - WARNING - Python is DOWN. Consecutive failures: 3
+2026-11-20 17:37:25,030 - INFO - Google is UP
+2026-11-20 17:37:26,033 - INFO - Youtube is UP
+2026-11-20 17:37:27,431 - WARNING - Python is DOWN. Consecutive failures: 4
+2026-11-20 17:47:50,491 - INFO - Website Monitor Started
+2026-11-20 17:47:51,839 - INFO - Google is UP
+2026-11-20 17:47:53,109 - INFO - Youtube is UP
+2026-11-20 17:47:53,111 - INFO - Test Website is UP
+2026-11-20 17:48:44,473 - INFO - Website Monitor Started
+2026-11-20 17:48:45,735 - INFO - Google is UP
+2026-11-20 17:48:52,946 - INFO - Youtube is UP
+2026-11-20 17:48:52,965 - INFO - Test Website is UP
+2026-11-20 17:48:59,053 - INFO - Google is UP
+2026-11-20 17:48:59,851 - INFO - Youtube is UP
+2026-11-20 17:48:59,880 - INFO - Test Website is UP
+2026-11-20 17:49:06,211 - INFO - Google is UP
+2026-11-20 17:49:07,172 - INFO - Youtube is UP
+2026-11-20 17:49:07,186 - INFO - Test Website is UP
+2026-11-20 17:49:13,248 - INFO - Google is UP
+2026-11-20 17:49:14,446 - INFO - Youtube is UP
+2026-11-20 17:49:16,573 - WARNING - Test Website is DOWN. Consecutive failures: 1
+2026-11-20 17:49:22,786 - INFO - Google is UP
+2026-11-20 17:49:23,843 - INFO - Youtube is UP
+2026-11-20 17:49:25,407 - INFO - Test Website is UP
+2026-11-20 17:49:32,120 - INFO - Google is UP
+2026-11-20 17:49:33,450 - INFO - Youtube is UP
+2026-11-20 17:49:33,476 - INFO - Test Website is UP
+2026-11-20 17:49:40,005 - INFO - Google is UP
+2026-11-20 17:49:41,357 - INFO - Youtube is UP
+2026-11-20 17:49:41,363 - INFO - Test Website is UP
+2026-11-20 17:49:47,945 - INFO - Google is UP
+2026-11-20 17:49:49,345 - INFO - Youtube is UP
+2026-11-20 17:49:49,359 - INFO - Test Website is UP
+2026-11-20 17:49:55,991 - INFO - Google is UP
+2026-11-20 17:49:57,281 - INFO - Youtube is UP
+2026-11-20 17:49:57,301 - INFO - Test Website is UP
+2026-11-20 17:50:03,431 - INFO - Google is UP
+2026-11-20 17:50:04,419 - INFO - Youtube is UP
+2026-11-20 17:50:04,435 - INFO - Test Website is UP
